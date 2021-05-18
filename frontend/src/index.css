@@ -1,0 +1,32 @@
+* {
+    font-family: "Signika", sans-serif;
+  }
+  .navbar-brand {
+    word-spacing: 3px;
+    letter-spacing: 1px;
+    font-size: 25px;
+  }
+  .outerdiv {
+    background-color: #03a9f4d6;
+    width: 100vw;
+    height: 100vh;
+  }
+  .innerdiv {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+  }
+  .input {
+    padding: 2px 2px 2px 2px;
+    box-shadow: 3px 2px 2px rgba(0, 0, 0, 0.1);
+  }
+  .input1 {
+    margin: 0px 1px 0px 1px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1), -2px -2px -2px rgba(0, 0, 0, 0.1);
+  }
+  
